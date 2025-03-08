@@ -2,4 +2,5 @@
 聚焦窗口监视
 
 运行run.bat
-已经有环境python运行window.py即可
+
+或者已经有环境python运行window.py即可
